@@ -44,7 +44,7 @@ Deployed directly through **GitHub Pages** for easy public access.
 ## 🧠 Quickstart
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/ucsd-savant.git
+git clone https://github.com/lucakraychete/ucsd-savant.git
 cd ucsd-savant
 
 # Install dependencies
@@ -69,7 +69,7 @@ Open [http://localhost:5173](http://localhost:5173) to preview.
    git push origin main
    ```
 3. GitHub Actions will automatically build and deploy the site to:  
-   **https://<your-username>.github.io/ucsd-savant/**  
+   **https://lucakraychete.github.io/ucsd-savant/**  
 
 If you don’t see it after a few minutes, check the **Actions** tab → “Deploy to GitHub Pages”.
 
