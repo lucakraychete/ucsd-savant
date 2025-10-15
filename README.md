@@ -57,24 +57,6 @@ Open [http://localhost:5173](http://localhost:5173) to preview.
 
 ---
 
-## 🌐 Deploying to GitHub Pages
-1. **Edit the repo name** in `vite.config.ts`:
-   ```ts
-   base: '/ucsd-savant/', // your repo name
-   ```
-2. Commit and push:
-   ```bash
-   git add .
-   git commit -m "Deploy setup"
-   git push origin main
-   ```
-3. GitHub Actions will automatically build and deploy the site to:  
-   **https://lucakraychete.github.io/ucsd-savant/**  
-
-If you don’t see it after a few minutes, check the **Actions** tab → “Deploy to GitHub Pages”.
-
----
-
 ## 🧮 Updating Data
 Edit the section at the top of `src/App.tsx`:
 
